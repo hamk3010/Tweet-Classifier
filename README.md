@@ -13,5 +13,4 @@ Optimized_embedding.ipynb is the optimized version of the Embedding.ipynb file h
 
 SimpleRNN.ipynb uses one simple recurrent network layer and final layer with the sigmoid function to obtain an classifying accuracy of 92% on test data. (takes a while to train)
 
-We're still working on updating the Github and bring it up to speed with our findings until then you can view our report at:
-https://docs.google.com/document/d/1xffgs0fqMzrzvINqbOXSkrlccr0DsVIU2Wh7T6cvDBg/edit?usp=sharing
+We're still working on updating the Github and bringing it up to speed with our findings until then you can view our report at: [Report Link](https://docs.google.com/document/d/1xffgs0fqMzrzvINqbOXSkrlccr0DsVIU2Wh7T6cvDBg/edit?usp=sharing)
